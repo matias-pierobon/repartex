@@ -1,0 +1,19 @@
+#header {
+    box-shadow: none;
+    max-width: 1200px;
+    width: 100%;
+    height: 64px;
+    margin: 20px auto 0;
+    padding: 0 24px;
+}
+
+#logo{
+    display: inline-flex;
+    align-items: center;
+    line-height: 64px;
+}
+
+#logo img {
+    height: 32px;
+    margin-right: 16px;
+}
